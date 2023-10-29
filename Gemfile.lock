@@ -134,6 +134,7 @@ GEM
       railties (>= 4.1.0)
       responders
       warden (~> 1.2.3)
+    dry-equalizer (0.3.0)
     devise-jwt (0.11.0)
       devise (~> 4.0)
       warden-jwt_auth (~> 0.8)
@@ -416,6 +417,8 @@ DEPENDENCIES
   capybara (>= 2.15)
   chromedriver-helper
   database_cleaner
+  devise
+  devise-jwt
   factory_bot_rails
   faker
   fuubar
