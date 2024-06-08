@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/better-together-org/community-engine-rails.git
-  revision: b3af0418b709402c7001d5c445c337e5b9e9b3a4
+  revision: c3f036de67aeeb1a8021619baf7582d5ec44a2e9
   branch: main
   specs:
     better_together (0.3.6)
@@ -228,6 +228,7 @@ GEM
     faker (3.4.1)
       i18n (>= 1.8.11, < 2)
     ffi (1.17.0)
+    ffi (1.17.0-x86_64-linux-gnu)
     fog-aws (3.22.0)
       fog-core (~> 2.1)
       fog-json (~> 1.1)
