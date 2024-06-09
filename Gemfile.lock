@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/better-together-org/community-engine-rails.git
-  revision: 426e414fa8e0fcdf61553b26eb780910f7787bd2
+  revision: 68c5f4b7c576f11641cbe6e896601d8b9dfbad5c
   branch: fix/js
   specs:
     better_together (0.3.6)
@@ -169,7 +169,7 @@ GEM
       regexp_parser (>= 1.5, < 3.0)
       xpath (~> 3.2)
     coderay (1.1.3)
-    concurrent-ruby (1.3.2)
+    concurrent-ruby (1.3.3)
     connection_pool (2.4.1)
     coveralls (0.7.1)
       multi_json (~> 1.3)
